@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: blue;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+}
+
+.card {
+  background-color: #0357d9;
+}
